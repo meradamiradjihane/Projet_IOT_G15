@@ -40,7 +40,7 @@ ESP32 Pin Assignments:
 ```
 Le diagramme de câblage ci-dessous a été conçu avec Fritzing :
 
-![Schéma de câblage](./Cablage/Pr_iot.png)
+![Schéma de câblage](Cablage/Cablage.png)
 
 *Fichier source : [projet_iot.fzz](./Cablage/Pr_iot.fzz)*
 
